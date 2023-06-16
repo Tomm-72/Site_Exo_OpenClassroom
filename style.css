@@ -49,7 +49,12 @@ p{
     color: #242424;
 }
 .informations{
+    border-radius: 50px;
     font-family: 'Montserrat';
     color: white;
     background: linear-gradient(#8E86B5,#ACAEED);
+}
+.corp{
+    border-bottom: 1px solid #8e86b5;
+    border-right: 1px solid #8e86b5;
 }
