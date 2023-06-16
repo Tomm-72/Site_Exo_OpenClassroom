@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Manrope';
+}
+h1{
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: 'Montserrat' ;
+}
+p{
+    font-size: 1.1em;
+    font-family: 'Manrope';
+}
+.important{
+    font-style: normal;
+    color: #A5B4FC;
+}
