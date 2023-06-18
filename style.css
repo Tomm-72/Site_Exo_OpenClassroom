@@ -16,6 +16,15 @@ a{
     font-size: 1em;
     font-family: 'Manrope';
 }
+a:hover{
+   text-decoration: underline;
+}
+.cta{
+    background: linear-gradient(#696484,#8788ba);
+}
+a img:hover{
+    opacity: 0.5;
+}
 h1{
     font-size: 3.5em;
     color: #A5B4FC;
